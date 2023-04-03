@@ -2,11 +2,7 @@
     "name": "MyTokenList",
     "keywords": ["zkSync", "ERC20", "Tokens"],
     "timestamp": "2023-04-03T12:00:00.000Z",
-    "version": {
-    "major": 2,
-    "minor": 0,
-    "patch": 0
-  },
+    
     "tokens": [
       {
         "chainId": 80001,
@@ -43,5 +39,10 @@
         "symbol": "LINK",
         "decimals": 18
       }
-    ]
+    ],
+    "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
   }
