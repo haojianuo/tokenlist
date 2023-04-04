@@ -11,13 +11,6 @@
     "tokens": [
       {
         "chainId": 280,
-        "address": "0x0000000000000000000000000000000000000000",
-        "name": "Ethereum",
-        "symbol": "ETH",
-        "decimals": 18
-      },
-      {
-        "chainId": 280,
         "address": "0x0faF6df7054946141266420b43783387A78d82A9",
         "name": "USD Coin",
         "symbol": "USDC",
